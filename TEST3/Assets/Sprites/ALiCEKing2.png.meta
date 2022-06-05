@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 9a59ebc1fe81ada4282dded684e27394
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4792280230768375238
+    second: ALiCEKing2_0
+  - first:
+      213: -1583835794566062976
+    second: ALiCEKing2_1
+  - first:
+      213: -1980021880039254361
+    second: ALiCEKing2_3
+  - first:
+      213: 3678601556024908517
+    second: ALiCEKing2_4
+  - first:
+      213: 8385230706449052160
+    second: ALiCEKing2_5
+  - first:
+      213: -8621983812264804082
+    second: ALiCEKing2_6
+  - first:
+      213: 4312909477778844751
+    second: ALiCEKing2_7
+  - first:
+      213: 4898882151113459558
+    second: ALiCEKing2_8
+  - first:
+      213: -5155288620913761179
+    second: ALiCEKing2_11
+  - first:
+      213: 7182845469285630820
+    second: ALiCEKing2_12
+  - first:
+      213: -2439423318457736213
+    second: ALiCEKing2_14
+  - first:
+      213: 3705531043011447699
+    second: ALiCEKing2_19
+  - first:
+      213: -854160080823261889
+    second: ALiCEKing2_22
+  - first:
+      213: -6257738402920017701
+    second: ALiCEKing2_23
+  - first:
+      213: -8634255732448796545
+    second: ALiCEKing2_24
+  - first:
+      213: 1714350555856060396
+    second: ALiCEKing2_25
+  - first:
+      213: 1426753740711782540
+    second: ALiCEKing2_26
+  - first:
+      213: 6220282659648638087
+    second: ALiCEKing2_27
+  - first:
+      213: 1243403108792424324
+    second: ALiCEKing2_28
+  - first:
+      213: 5900278735656880312
+    second: ALiCEKing2_29
+  - first:
+      213: 5758582747412163155
+    second: ALiCEKing2_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALiCEKing2_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3163
+        width: 380
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a8cec45866e7db0800000000000000
+      internalID: -4792280230768375238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2811
+        width: 618
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c57528cb5150ae0800000000000000
+      internalID: -1583835794566062976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_3
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3185
+        width: 362
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a652c8379c8584e0800000000000000
+      internalID: -1980021880039254361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_4
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 3527
+        width: 108
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea501900a40d0330800000000000000
+      internalID: 3678601556024908517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_5
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 3529
+        width: 224
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f79196e25e5470800000000000000
+      internalID: 8385230706449052160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_6
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3193
+        width: 288
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c9ca676f885880800000000000000
+      internalID: -8621983812264804082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_7
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2969
+        width: 236
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6c6bb1588adb30800000000000000
+      internalID: 4312909477778844751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_8
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 2825
+        width: 158
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678e9d6c535cf340800000000000000
+      internalID: 4898882151113459558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2145
+        width: 434
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56462db205cb478b0800000000000000
+      internalID: -5155288620913761179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_12
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2399
+        width: 180
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634b41e5e79ea360800000000000000
+      internalID: 7182845469285630820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1541
+        width: 439
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a58e9a6d652ed0800000000000000
+      internalID: -2439423318457736213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_19
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2077
+        width: 307
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b41e2d9d0bc6330800000000000000
+      internalID: 3705531043011447699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_22
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1931
+        width: 313
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e5399ee96524f0800000000000000
+      internalID: -854160080823261889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 867
+        width: 470
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d1a4d31c0829a0800000000000000
+      internalID: -6257738402920017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_24
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1737
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7062875826fc2880800000000000000
+      internalID: -8634255732448796545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_25
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1358
+        width: 904
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3b4e5fb89ac710800000000000000
+      internalID: 1714350555856060396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_26
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 231
+        width: 344
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e519c7f8dcc310800000000000000
+      internalID: 1426753740711782540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_27
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 443
+        width: 278
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c01ea5f12e25650800000000000000
+      internalID: 6220282659648638087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_28
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1129
+        width: 192
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48750342a84714110800000000000000
+      internalID: 1243403108792424324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_29
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 311
+        width: 476
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88e92cf3002e150800000000000000
+      internalID: 5900278735656880312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALiCEKing2_30
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 181
+        width: 428
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae13d9f789aef40800000000000000
+      internalID: 5758582747412163155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
